@@ -53,8 +53,3 @@ Develop a robust regression model using ensemble techniques to accurately foreca
 | 10   | Number of females            | Gender composition has moderate impact                              |
 
 ---
-
-
-## 📬 Contact
-
-For questions, contributions, or feedback, feel free to open an issue or contact any team member. We welcome collaboration and suggestions!
